@@ -7,6 +7,14 @@ Live demo @ Hugging Face Spaces: https://huggingface.co/spaces/rima357/FinArgBen
 4. In both tabs, you see a "Clear" button to clear the input and output.
 5. For code, you can check- https://huggingface.co/spaces/rima357/FinArgBengali/tree/main
 6. For demo video, you can check- https://youtu.be/4JwVl4mbj6Q.
+#  Output descriptions for both tasks
+1. Task-1
+   1. Label 0 means Premise.
+   2. Label 1 means Claim.
+2. Task-2
+   1. Label 0 means No relation.
+   2. Label 1 means Support.
+   3. Label 2 means attack.
 # Screenshot of task-1 toolkit: Classify a Bengali argumentative text into Premise or Claim.
 ![Alt text](https://github.com/rima357/FAAB_Financial_Argument_Ananlysis_Bengali/blob/main/Image_toolkit_task1.png)
 # Screenshot of task-2 toolkit: Detect the relation between two Bengali argumentative texts.
