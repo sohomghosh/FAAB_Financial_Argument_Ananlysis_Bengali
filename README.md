@@ -7,7 +7,7 @@ Live demo @ Hugging Face Spaces: https://huggingface.co/spaces/rima357/FinArgBen
 4. In both tabs, you see a "Clear" button to clear the input and output.
 5. For code, you can check- https://huggingface.co/spaces/rima357/FinArgBengali/tree/main
 6. For demo video, you can check- YouTube video link coming soon.
-# Screenshot of task-1 toolkit: Classify Bengali text into Premise or Claim.
+# Screenshot of task-1 toolkit: Classify a Bengali argumentative text into Premise or Claim.
 ![Alt text](https://github.com/rima357/FAAB_Financial_Argument_Ananlysis_Bengali/blob/main/Image_toolkit_task1.png)
-# Screenshot of task-2 toolkit: Detect the relation between two Bengali texts.
+# Screenshot of task-2 toolkit: Detect the relation between two Bengali argumentative texts.
 ![Alt text](https://github.com/rima357/FAAB_Financial_Argument_Ananlysis_Bengali/blob/main/Image_toolkit_task2.png)
