@@ -6,7 +6,7 @@ Live demo @ Hugging Face Spaces: https://huggingface.co/spaces/rima357/FinArgBen
 3. In tab-2 you see two textboxes for text1 and text2, where you can enter the text in Bengali or choose the text from examples. Click "Detect the relation" button to detect the relation between two bengali texts.
 4. In both tabs, you see a "Clear" button to clear the input and output.
 5. For code, you can check- https://huggingface.co/spaces/rima357/FinArgBengali/tree/main
-6. For demo video, you can check- YouTube video link coming soon.
+6. For demo video, you can check- https://youtu.be/4JwVl4mbj6Q.
 # Screenshot of task-1 toolkit: Classify a Bengali argumentative text into Premise or Claim.
 ![Alt text](https://github.com/rima357/FAAB_Financial_Argument_Ananlysis_Bengali/blob/main/Image_toolkit_task1.png)
 # Screenshot of task-2 toolkit: Detect the relation between two Bengali argumentative texts.
