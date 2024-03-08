@@ -35,7 +35,7 @@ booktitle = {Proceedings of the 15th Annual Meeting of the Forum for Information
 pages = {88–92},
 numpages = {5},
 keywords = {Argument Mining, Financial Natural Language Processing, Language Resources in Bengali, Natural Language Processing},
-location = {<conf-loc>, <city>Panjim</city>, <country>India</country>, </conf-loc>},
+location = {Panjim, India},
 series = {FIRE '23}
 }
 ```
