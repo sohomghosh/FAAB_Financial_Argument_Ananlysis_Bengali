@@ -19,3 +19,23 @@ Live demo @ Hugging Face Spaces: https://huggingface.co/spaces/rima357/FinArgBen
 ![Alt text](https://github.com/rima357/FAAB_Financial_Argument_Ananlysis_Bengali/blob/main/Image_toolkit_task1.png)
 # Screenshot of task-2 toolkit: Detect the relation between two Bengali argumentative texts.
 ![Alt text](https://github.com/rima357/FAAB_Financial_Argument_Ananlysis_Bengali/blob/main/Image_toolkit_task2.png)
+
+```bibtex
+@inproceedings{10.1145/3632754.3632763,
+author = {Roy, Rima and Ghosh, Sohom and Naskar, Sudip Kumar},
+title = {Financial Argument Analysis in Bengali},
+year = {2024},
+isbn = {9798400716324},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3632754.3632763},
+doi = {10.1145/3632754.3632763},
+abstract = {Argument mining is an emerging area of research. Argument mining in financial domain specifically for low-resources language like Bengali is in its nascent stage. There exist no datasets for argumentative financial texts mining in Bengali. In this paper, we propose two new datasets in Bengali for financial argument analysis. Subsequently, we released two transformer-based models fine-tuned on these datasets as baselines for financial argumentative unit classification and for detecting the relation between two argumentative financial texts.},
+booktitle = {Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation},
+pages = {88–92},
+numpages = {5},
+keywords = {Argument Mining, Financial Natural Language Processing, Language Resources in Bengali, Natural Language Processing},
+location = {<conf-loc>, <city>Panjim</city>, <country>India</country>, </conf-loc>},
+series = {FIRE '23}
+}
+```
